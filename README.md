@@ -6,9 +6,6 @@ This project is a command-line chatbot built using Python. It leverages the powe
 
 This project was developed as part of the **Phase 2: Tech Article Challenge** for the **SPARCS (Society of Programmers and Refined Computer Scientists)** membership application at the University of the Philippines Mindanao
 
-**(Optional: Add if you worked with a partner)**
-*This project/article was co-authored by Tirso Benedict J. Naza and Jay Emerson P. Navares as per the SPARCS Phase 2 guidelines
-
 ## Features
 
 **Conversational AI:** Interact with the Llama 3 model running locally.
@@ -38,15 +35,7 @@ This project was developed as part of the **Phase 2: Tech Article Challenge** fo
         ollama list
         ```
 
-3.  **Clone the Repository (or set up project folder):**
-    * If this code is in a Git repository:
-        ```bash
-        git clone [your-repo-url]
-        cd [your-repo-name]
-        ```
-    * Otherwise, ensure the Python script (`your_script_name.py`) is in a dedicated folder.
-
-4.  **Install Python Dependencies:**
+3.  **Install Python Dependencies:**
     * It's recommended to use a virtual environment:
         ```bash
         python3 -m venv chatbot
